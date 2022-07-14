@@ -1,4 +1,4 @@
-# Yellow-21
+# Pentago
 
 This is the <strong>Final Submission</strong> README file for the <span style="color:red">Pentago Game Project.</span>
 
