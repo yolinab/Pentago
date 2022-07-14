@@ -2,8 +2,7 @@
 
 This is the <strong>Final Submission</strong> README file for the <span style="color:red">Pentago Game Project.</span>
 
-In this final state, the project has a fully functional board, game logic, and networking. For more info regarding the
-implementation, please refer to the JavaDoc HTML "index.html" included in the zip, or to our report.
+In this final state, the project has a fully functional board, game logic, and networking.
 
 <u>The Java version used is JAVA 11.</u>
 
