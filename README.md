@@ -1,5 +1,8 @@
 # Pentago
 
+![image](https://user-images.githubusercontent.com/90510471/178991969-a03441f7-8d39-4760-8ffe-bc84a1db9f4f.png)
+
+
 This is the <strong>Final Submission</strong> README file for the <span style="color:red">Pentago Game Project.</span>
 
 In this final state, the project has a fully functional board, game logic, and networking.
